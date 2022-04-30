@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was bootstrapped with [Create React App]
 
 # Personal Accountant
 Personal Accountant to manage your day to day finance.
