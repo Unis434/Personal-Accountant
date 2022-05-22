@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Unis434/Personal-Accountant#readme",
   "dependencies": {
+    "express": "^4.18.1",
     "yarn": "^1.22.18"
   }
 }
